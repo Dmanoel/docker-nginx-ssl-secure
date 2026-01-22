@@ -7,9 +7,7 @@ _maintained by MarvAmBass_
 
 This Dockerfile (available as ___marvambass/nginx-ssl-secure___) gives you a ready to use secured production nginx server, with perfectly configured SSL. You should get a A+ Rating at the Qualys SSL Test.
 
-View in Docker Registry [marvambass/nginx-ssl-secure](https://registry.hub.docker.com/u/marvambass/nginx-ssl-secure/)
-
-View in GitHub [MarvAmBass/docker-nginx-ssl-secure](https://github.com/MarvAmBass/docker-nginx-ssl-secure)
+View in GitHub [MarvAmBass/docker-nginx-ssl-secure]([https://github.com/MarvAmBass/docker-nginx-ssl-secure](https://github.com/Dmanoel/docker-nginx-ssl-secure))
 
 ## Environment variables and defaults
 
